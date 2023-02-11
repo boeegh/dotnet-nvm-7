@@ -1,0 +1,1 @@
+# dotnet-nvm-7
