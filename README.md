@@ -1,4 +1,4 @@
-# dotnet-nvm
+# dotnet-nvm-7
 Combined Microsoft .NET SDK v7 and NVM (Node Version Manager) image for building .NET projects 
 that include node packages such as webpack.
 Includes node versions:
